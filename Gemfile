@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.5'
 gem 'pg'
 gem 'heroku'
+gem 'rails_12factor'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 # Use SCSS for stylesheets
